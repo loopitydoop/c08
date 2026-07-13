@@ -6,12 +6,12 @@
 /*   By: shuwu <shuwu@student.42singapore.sg>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/07/13 14:36:34 by shuwu             #+#    #+#             */
-/*   Updated: 2026/07/13 15:01:22 by shuwu            ###   ########.fr       */
+/*   Updated: 2026/07/13 16:25:40 by shuwu            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef FT_H
-#define FT_H
+# define FT_H
 
 void	ft_putchar(char c);
 void	ft_swap(int *a, int *b);
