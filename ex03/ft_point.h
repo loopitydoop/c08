@@ -6,7 +6,7 @@
 /*   By: shuwu <shuwu@42singapore.sg>               +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/07/14 13:19:30 by shuwu             #+#    #+#             */
-/*   Updated: 2026/07/14 13:35:54 by shuwu            ###   ########.fr       */
+/*   Updated: 2026/07/15 11:04:31 by shuwu            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,7 @@
 // normal struct won't work since the declaration only uses the t_point
 // alias directly when declaring a new t_point datatype var.
 
-typedef struct t_point
+typedef struct s_point
 {
 	int	x;
 	int	y;
